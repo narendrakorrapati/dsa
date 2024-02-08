@@ -6,6 +6,6 @@ package com.narendra.recursion;
 public class BinaryToDecimal {
 
 	public static void main(String[] args) {
-		
+		System.out.println(Math.pow(10, 3));
 	}
 }
